@@ -1,2 +1,0 @@
-# sjvirhivy.github.io
-web
