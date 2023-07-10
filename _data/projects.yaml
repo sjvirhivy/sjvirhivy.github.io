@@ -1,29 +1,29 @@
-- title: Halve Jekyll Theme
+- title: 杨文璟项目
   url: http://taylantatli.me/Halve
   image: http://taylantatli.me/Halve/images/halve-home-image.png
   completed: false
 
-- title: Moon Jekyll Theme
+- title: 基于机器学习的电力智能光纤网络自动监测和预警研究
   url: http://taylantatli.me/Moon
   image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
   completed: true
 
-- title: Ramme Jekyll Theme
+- title: 软件著作——快问应用平台
   url: http://taylantatli.me/Ramme
   image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
   completed: true
 
-- title: Daisy Pelican Theme
+- title: 常态化疫情预测模型研究及可视化
   url: http://taylantatli.me/Daisy-Pelican-Theme/
   image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
   completed: true
 
-- title: Block Icon Theme
+- title: 软件著作——购好应用平台
   url: https://github.com/TaylanTatli/Block-Icon-Theme
   image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
   completed: false
 
-- title: Start Page
+- title: 未完待续……
   url: http://taylantatli.me/StartPage/
   image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
   completed: false
