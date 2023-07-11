@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Layout: Header Image (External URL)"
-image: https://farm5.staticflickr.com/4140/4939863887_84705982fd_b.jpg
+image: https://img2023.cnblogs.com/blog/2633526/202307/2633526-20230711141849045-1061416555.png
 categories:
   - Layout
   - Uncategorized
