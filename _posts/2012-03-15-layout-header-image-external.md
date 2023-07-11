@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Layout: Header Image (External URL)"
-image: https://img2023.cnblogs.com/blog/2633526/202307/2633526-20230711141849045-1061416555.png
+image: https://raw.githubusercontent.com/sjvirhivy/images/main/blog/VCG41N903225344.jpg
 categories:
   - Layout
   - Uncategorized

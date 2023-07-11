@@ -4,23 +4,23 @@
   completed: false
 
 - title: 基于机器学习的电力智能光纤网络自动监测和预警研究
-  url: http://taylantatli.me/Moon
-  image: https://img2023.cnblogs.com/blog/2633526/202307/2633526-20230711141849045-1061416555.png
+  url: http://img2023.cnblogs.com/blog/2633526/202307/2633526-20230711141849045-1061416555.png
+  image: images/p1.png
   completed: true
 
 - title: 软件著作——快问应用平台
   url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+  image: images/VCG41533808042.jpg
   completed: true
 
 - title: 常态化疫情预测模型研究及可视化
   url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://img2023.cnblogs.com/blog/2633526/202307/2633526-20230711141914636-625901761.jpg
+  image: images/VCG41N935962978.jpg
   completed: true
 
 - title: 软件著作——购好应用平台
   url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
+  image: images/VCG41N1339723154.jpg
   completed: false
 
 - title: 未完待续……
